@@ -1,6 +1,6 @@
 # Mega-Alea-v1.1
 
-Web Scraping, Random Range, Math Combination, PT-BR Version:
+Random Range, Math Combination, Web Scraping, PT-BR Version:
 
 - Sorteio aleatório da Mega;
 - Total de combinações possíveis;
